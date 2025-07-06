@@ -106,6 +106,5 @@ Based on the analysis, recommendations will be provided to address the identifie
 3. Bonus Payment Allocation: Guidelines for allocating bonus payments based on performance ratings.
 
 ## Conclusion
-The analysis provides a comprehensive overview of the company's HR data, highlighting areas of concern and opportunities for improvement. The recommendations aim to promote a more inclusive and equitable work environment, ensuring the Palmoria Group's success and reputation.
-
+The Palmoria Group HR Analysis aims to provide a comprehensive understanding of the company's employee data, focusing on gender distribution, performance ratings, salary structure, and compliance with minimum salary regulations. By achieving the project objectives, this analysis will deliver actionable insights and recommendations to promote gender equality, address potential biases and pay gaps, and ensure a more inclusive and equitable work environment. The findings of this analysis will enable the Palmoria Group to make informed decisions, drive positive change, and foster a workplace culture that values diversity and promotes employee well-being.
 
